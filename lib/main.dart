@@ -4,7 +4,7 @@ void main(){
 
     runApp(
         const MaterialApp(
-          title:'Routing App',
+          title:'ShoppOO',
           home: Home(),
           debugShowCheckedModeBanner: false,
         )

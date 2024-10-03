@@ -23,7 +23,10 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/casual.png
-    - assets/jackets.png
-    - assets/shirts.png
-    - assets/jeans.png
+    - assets/active2.png
+    - assets/airpods.png
+    - assets/dt900.png
+    - assets/hk9.png
+    - assets/i8.png
+    - assets/led airpods.png
+    - assets/s9.png

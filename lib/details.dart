@@ -25,7 +25,7 @@ class Details extends StatelessWidget {
             // Display product name
             Text(
               product.name,
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.blue),
             ),
             SizedBox(height: 8),
             // Display product description
@@ -36,8 +36,8 @@ class Details extends StatelessWidget {
             SizedBox(height: 16),
             // Display product price
             Text(
-              '\RS ${product.price}',
-              style: TextStyle(fontSize: 20, color: Colors.green),
+              'Rs ${product.price}',
+              style: TextStyle(fontSize: 20, color: Colors.deepOrange),
             ),
           ],
         ),
